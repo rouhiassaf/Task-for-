@@ -1,0 +1,23 @@
+.Services{
+    background-color: darkgray;
+    text-align: center;
+    
+}
+
+p{
+    color: teal;
+    
+    
+}
+
+.Services-one{
+
+    display:inline-block;
+    width: 25%;
+    background-color: beige;
+
+}
+
+i{
+    color: orangered;
+}
